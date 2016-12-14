@@ -112,7 +112,7 @@ h1 {
         }
 
 .mailbox1{
-    background-image: url("images/mailbox1.2.png");
+    background-image: url("mailbox1.2.png");
     width: 100%;
     height: 540px;
     background-size: cover;
@@ -161,7 +161,7 @@ h3 {
             }
 
 #middle {
-    background-image: url("images/mail.png");
+    background-image: url("mail.png");
     width: 100%;
     height: 800px;
     margin-top: -60px;
@@ -171,7 +171,7 @@ h3 {
 }
 
 .mailbox{
-    background-image: url("images/mailbox1.png");
+    background-image: url("mailbox1.png");
     width: 100%;
     height: 900px;
     background-size: cover;
@@ -228,7 +228,7 @@ h5 {
       
            
 .phones {
-    background-image: url("images/phones.png");
+    background-image: url("phones.png");
     width: 781px;
     height: 975px;
     background-size: cover;
